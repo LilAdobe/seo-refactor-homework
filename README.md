@@ -7,5 +7,9 @@
 4. And the title should be concise and descriptive.
 
 ## Links
-1. [HomeWork Deployed Website Link]()
-2. [Source Code]()
+1. [HomeWork Deployed Website Link](https://liladobe.github.io/seo-refactor-homework/)
+2. [Github](https://github.com/LilAdobe/seo-refactor-homework)
+
+## Screenshot
+<img src="assets/images/screenshot-for-readme.png" alt="screenshot-for-readme" 
+width="200px">
